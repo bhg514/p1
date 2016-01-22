@@ -18,6 +18,7 @@ public class Test {
 		System.out.println("Çï·Î¿ì ±ê");
 		System.out.println("hihi");
 		System.out.println("test");
+		System.out.println("hohoho");
 	}
 
 }
