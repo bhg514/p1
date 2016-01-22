@@ -17,6 +17,7 @@ public class Test {
 		System.out.println("12345678890");
 		System.out.println("Çï·Î¿ì ±ê");
 		System.out.println("hihi");
+		System.out.println("test");
 	}
 
 }
