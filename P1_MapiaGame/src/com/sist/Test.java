@@ -20,5 +20,6 @@ public class Test {
 		System.out.println("test");
 		System.out.println("hohoho");
 		System.out.println("5�떆21遺�");
+		System.out.println("5시26분");
 	}
 }
